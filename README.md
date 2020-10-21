@@ -1,1 +1,1 @@
-Open Data Blend Datasets and Analytics Quickstart Templates
+Open Data Blend Datasets and Analytics Starter Templates
