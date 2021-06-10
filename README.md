@@ -10,7 +10,7 @@ Open Data Blend Starters are basic helper files for Excel, Power BI, and Tableau
 | :--------------------------------------------------------------------------------------------| :---------------- |
 | [Excel Starter (.odc)](https://github.com/opendatablend/starters/raw/master/starters/open-data-blend-analytics.odc)     | For use with Excel.|
 | [Power BI Starer (.pbix)](https://github.com/opendatablend/starters/raw/master/starters/open-data-blend-analytics.pbix) | For use with Power BI Desktop and the [Power BI service](https://app.powerbi.com). <br><br>Note: If you are using a non-Windows operating system like Mac OS or a variant of Linux, you can connect and build reports in your browser by uploading the file to the Power BI service to create a Power BI dataset.|
-| [Tableau Desktop Starter (.twb)](https://github.com/opendatablend/starters/raw/master/starters/open-data-blend-analytics.twb) | For use with Tableau Desktop.|
+| [Tableau Desktop Starter (.twb)](https://github.com/opendatablend/starters/raw/master/starters/open-data-blend-analytics.twb) | For use with Tableau Desktop. <br><br>Note: If clicking the link open the file as plain text, use your browser's 'save as' feature to save it to a file.|
 
 Read the [Open Data Blend Docs](https://docs.opendatablend.io/open-data-blend-analytics/analytical-engine) for more information on connecting to the [Open Data Blend Analytics](https://www.opendatablend.io/analytics) service.
 
